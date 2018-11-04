@@ -1,1 +1,5 @@
-# challenges-formula-1-flagging-the-winner
+# Your Challenge Title Here
+
+## Challenge development resources
+
+Authoring documentation: https://authoring.datacamp.com/
